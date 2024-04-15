@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 #include <vector>
+using namespcae std;
+
 int main(){  
      std::string str;
     int N, sum, loop_counter;
